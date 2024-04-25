@@ -4,6 +4,7 @@ go.sum
 # Compiled output
 frontend/dist
 frontend/.angular
+build
 
 # Node
 frontend/node_modules
