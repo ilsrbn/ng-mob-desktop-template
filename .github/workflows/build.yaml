@@ -43,3 +43,4 @@ jobs:
           sign: true
           package: true
           go-version: '1.22'
+          node-version: '20.12.2'
